@@ -430,11 +430,14 @@ p {
   margin-top: 60px;
 }
 
-.what-we-do .tab-content-services .right-image img {
-  width: 100%;
-  overflow: hidden;
-}
 
+.what-we-do .tab-content-services .right-image img {
+  width: 50%;
+  margin: auto;    
+  display: block;
+  overflow: hidden;
+
+}
 .what-we-do .tab-content-services .left-text h4 {
   font-size: 22px;
   text-transform: uppercase;
