@@ -165,6 +165,7 @@ p {
   min-height: 1px;
   padding-right: 10px;
   padding-left: 10px;
+  list-style-type: none;
 }
 
 .col-xs-15 {
@@ -458,7 +459,9 @@ h2 {
 }
 
 .what-we-do .tab-content-services .right-image img {
-  width: 100%;
+  width: 50%;
+  margin: auto;    
+  display: block;
   overflow: hidden;
 }
 
