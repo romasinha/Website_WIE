@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Roboto', sans-serif;
   outline: none !important;
 }
 
@@ -886,17 +886,17 @@ a .medium {
 }
 
 #ec .container2 .card {
-  width: 50%;
+  width: 33.3%;
 }
 
 #ec .container2 .card .tiya {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
 }
 
 #ec .container2 .card .saloni {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
 }
 
 /*responsive*/
@@ -914,9 +914,9 @@ a .medium {
   }
 
   #ec .container2 .card {
-    width: 100%;
+    width: 75%;
     display: flex;
-    justify-content: center;
+    justify-content: left;
   }
 
   #ec .container .container2 .card ul {
