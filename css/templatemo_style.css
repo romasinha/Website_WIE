@@ -44,6 +44,7 @@ h2 {
   top: 3%; /* Position the navbar at the top of the page */
   width: 98%;
   z-index: 1;
+  border-radius: 40px;
 }
 
 .navbar-toggler {
